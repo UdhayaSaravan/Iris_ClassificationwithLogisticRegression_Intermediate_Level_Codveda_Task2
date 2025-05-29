@@ -25,10 +25,6 @@ To implement and evaluate a classification model (Logistic Regression) to predic
 - matplotlib
 - seaborn
 
-##  Sample Outputs
-
-![Confusion Matrix](images/confusion_matrix.png)  
-
 
 ##  Project Demonstration
 
