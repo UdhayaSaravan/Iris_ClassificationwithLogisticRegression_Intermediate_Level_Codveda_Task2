@@ -28,7 +28,7 @@ To implement and evaluate a classification model (Logistic Regression) to predic
 
 ##  Project Demonstration
 
-Watch the task walkthrough video on LinkedIn: [LinkedIn Video Link](https://www.linkedin.com)  
+Watch the task walkthrough video on LinkedIn: [LinkedIn Video Link](https://www.linkedin.com/posts/udhaya-saravanan_codvedajourney-codvedaprojects-logisticregression-activity-7334219551322062848-wMMH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEw-TIYBTzXmJwkaNnTcBaxdewQxYaq0-JQ)  
 🔗 GitHub Repository: [https://github.com/UdhayaSaravan]
 
 ---
